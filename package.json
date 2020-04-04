@@ -1,0 +1,19 @@
+{
+  "name": "dnd-character-builder",
+  "version": "0.0.1",
+  "description": "A project for building out D&D Characters in an OOP way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerJBrown192/DnD-Character-Builder.git"
+  },
+  "author": "Tyler Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerJBrown192/DnD-Character-Builder/issues"
+  },
+  "homepage": "https://github.com/TylerJBrown192/DnD-Character-Builder#readme"
+}
